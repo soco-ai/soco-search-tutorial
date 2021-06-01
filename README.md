@@ -7,4 +7,4 @@ Using soco-search, developers can easily index large-scale documentation in orde
 Additionally, Customized plugins using any ML models such as sentiment analysis, machine translation, topic classification, etc are also supported in soco-search.
 
 
-See **Wiki** for details.
+See [**Wiki**](https://github.com/soco-ai/soco-search-tutorial/wiki) for details.
